@@ -1,6 +1,6 @@
-# 🖥️ Hackintosh Build – Ryzen 7 3700X | X570 | RX 6700XT
+# 🖥️ Hackintosh Build – Ryzen 7 3700X | X570 | RX 6700XT | OC 1.0.4
 
-This is my personal Hackintosh configuration using OpenCore `0.8.8` on an AMD Ryzen system. It's stable, clean, and running macOS smoothly.
+This is my personal Hackintosh configuration using OpenCore `1.0.4` on an AMD Ryzen system. It's stable, clean, and running macOS smoothly.
 
 ![Screenshot](https://github.com/SheikhFoysaldiu/Zen-7-3700x-x570-mb-6700xt/blob/main/Screenshoots/Screenshot%202025-04-11%20at%2012.42.22%E2%80%AFPM.png?raw=true)
 
@@ -10,7 +10,7 @@ This is my personal Hackintosh configuration using OpenCore `0.8.8` on an AMD Ry
 
 | Component     | Model / Version                       |
 |---------------|----------------------------------------|
-| **Bootloader**| OpenCore `0.8.8`                       |
+| **Bootloader**| OpenCore `1.0.4`                       |
 | **Motherboard** | MSI X570 Tomahawk WiFi Gaming       |
 | **CPU**       | AMD Ryzen 7 3700X                      |
 | **GPU**       | AMD Radeon RX 6700 XT                 |
